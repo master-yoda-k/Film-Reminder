@@ -357,7 +357,7 @@ while True:
                     cinema_data.delete_movie(movie_name)
                     print(movie_name, "deleted from database.")
 
-            #Waiting for One
+            #Waiting for One Day
             print("Process finished. Waiting for 24 hours.")
             time.sleep(86400)
 
