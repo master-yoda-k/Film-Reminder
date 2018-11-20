@@ -104,3 +104,4 @@ class Mail_Database():
 
         else:
             return 0
+        asdasdsasadadadad
