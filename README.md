@@ -2,8 +2,10 @@
 When a new film released, you will receive a mail about it.
 
 # Requirements
-https://pypi.org/project/requests/
+Requests Module: https://pypi.org/project/requests/
 
-https://pypi.org/project/beautifulsoup4/
+Beautifulsoup4 Module: https://pypi.org/project/beautifulsoup4/
 
-To download sqlite: https://sqlitebrowser.org/
+Sqlite: https://sqlitebrowser.org/
+
+Before running the program, make sure to input your mail adress and password on Inform_User.py
