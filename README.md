@@ -8,4 +8,4 @@ Beautifulsoup4 Module: https://pypi.org/project/beautifulsoup4/
 
 Sqlite: https://sqlitebrowser.org/
 
-Before running the program, make sure to input your mail adress and password on Inform_User.py
+Before running the program, make sure to input your mail address and password on Inform_User.py
